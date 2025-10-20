@@ -1,0 +1,1667 @@
+{
+  "year": 2025,
+  "categories": [
+    {
+      "name": "Best B2C Content Campaign",
+      "slug": "b2c-campaign",
+      "nominees": [
+        {
+          "name": "Block out with Bloo",
+          "company": "Burson",
+          "client": "Henkel",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Breaking the Silence Around Menopause with Data-Driven Content and Societal Impact",
+          "company": "Sanoma Content Studio",
+          "client": "Terveystalo",
+          "country": "Finland"
+        },
+        {
+          "name": "Brighter",
+          "company": "Medium Rare Content Agency",
+          "client": "CommBank",
+          "country": "Australia"
+        },
+        {
+          "name": "Building Lions",
+          "company": "Sporting Eric",
+          "client": "Rhino",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Christmas 2024",
+          "company": "Medium Rare Content Agency",
+          "client": "Coles",
+          "country": "Australia"
+        },
+        {
+          "name": "Freedome",
+          "company": "Make Your Mark",
+          "client": "Vattenfall",
+          "country": "Sweden"
+        },
+        {
+          "name": "Go Full Flybuys",
+          "company": "Medium Rare Content Agency",
+          "client": "Flybuys",
+          "country": "Australia"
+        },
+        {
+          "name": "Kondomeriet: A Christmas Fuck Story",
+          "company": "Schibsted Partnerstudio",
+          "client": "Kondomeriet",
+          "country": "Norway"
+        },
+        {
+          "name": "Live Shopping with K-Citymarket",
+          "company": "Sanoma Media Finland & Dagmar",
+          "client": "K-Citymarket",
+          "country": "Finland"
+        },
+        {
+          "name": "Neutrogena: Reclaiming Relevance for a Skincare Icon",
+          "company": "Elmwood Brand & Design Consultancy",
+          "client": "Kenvue",
+          "country": "Singapore"
+        },
+        {
+          "name": "Not Just Stockholm Film Festival",
+          "company": "Geelmuyden Kiese & Rocket Science",
+          "client": "Stockholm Film Festival",
+          "country": "Sweden"
+        },
+        {
+          "name": "Optimel goes the extra mile, launching their new Protein range",
+          "company": "Brandstudio van DPG Media",
+          "client": "FrieslandCampina",
+          "country": "Netherlands"
+        },
+        {
+          "name": "Repositioning a Classic: 100 years of Squeezy Cheese",
+          "company": "Powerhouse",
+          "client": "Primula",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Sweden's Worst Wardrobe",
+          "company": "Bonnier News",
+          "client": "IKEA",
+          "country": "Sweden"
+        },
+        {
+          "name": "The Salvation Army: The Gift From Liv",
+          "company": "Schibsted Partnerstudio",
+          "client": "The Salvation Army",
+          "country": "Norway"
+        },
+        {
+          "name": "Winter in Dublin: Turning the Off-Season into the Must-Season",
+          "company": "Forsman & Bodenfors",
+          "client": "Fáilte Ireland",
+          "country": "Ireland"
+        }
+      ]
+    },
+    {
+      "name": "Best B2B Content Campaign",
+      "slug": "b2b-campaign",
+      "nominees": [
+        {
+          "name": "A Decisive Decade: Ten questions. One bold vision.",
+          "company": "",
+          "client": "PA Consulting",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "BrainChild: a Data-Driven Fight Against Childhood Cancer",
+          "company": "Steen Agency",
+          "client": "Microsoft",
+          "country": "Sweden"
+        },
+        {
+          "name": "Chefluencer: Driving B2B Growth",
+          "company": "Greenpark",
+          "client": "Unilever Food Solutions",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Chubb: Where cover connects",
+          "company": "Wardour",
+          "client": "Chubb",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Everyday Heroes",
+          "company": "Mahlab",
+          "client": "ABB Electrification Service",
+          "country": "Australia"
+        },
+        {
+          "name": "HSBC Global Investment Summit 2025: Building a Global Content & Brand Ecosystem Around Global Institutional & Corporate Leaders",
+          "company": "OMG, Ride Shotgun",
+          "client": "HSBC Corporate & Institutional Banking",
+          "country": "Hong Kong"
+        },
+        {
+          "name": "Outlook and Voice of the Buyer and Marketer",
+          "company": "INFUSE",
+          "client": "INFUSE",
+          "country": "United States of America"
+        },
+        {
+          "name": "Singapore Dreamin'",
+          "company": "SPH Content Lab",
+          "client": "Singtel",
+          "country": "Singapore"
+        },
+        {
+          "name": "Strong Teams, Stronger Business",
+          "company": "Mediacorp Brand Studio",
+          "client": "Workforce Singapore (WSG)",
+          "country": "Singapore"
+        },
+        {
+          "name": "The Messy Middle report",
+          "company": "2Stories",
+          "client": "Genfin Business Finance",
+          "country": "South Africa"
+        },
+        {
+          "name": "The World's Fastest Accountant",
+          "company": "Sunday",
+          "client": "The Institute of Chartered Accountants in England and Wales (ICAEW)",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "The Year Ahead 2025: Bringing big-screen inspiration to boardroom conversations",
+          "company": "Simmons & Simmons",
+          "client": "",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Who will grow the future?",
+          "company": "Geelmuyden Kiese & Copenhagen Film Company",
+          "client": "Yara International",
+          "country": "Norway"
+        }
+      ]
+    },
+    {
+      "name": "Best Inter-Company Engagement",
+      "slug": "Intercompany-engagement",
+      "nominees": [
+        {
+          "name": "“Letter to Myself” x Andrea Spendolini-Siriex",
+          "company": "DMS Media ltd",
+          "client": "Toyota (GB) plc",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Boots HomeCare – A supplier of reassurance.",
+          "company": "Geelmuyden Kiese",
+          "client": "Boots HomeCare",
+          "country": "Norway"
+        },
+        {
+          "name": "CIB Blue Sky Awards",
+          "company": "2Stories",
+          "client": "Standard Bank Corporate and Investment Banking",
+          "country": "South Africa"
+        },
+        {
+          "name": "In a small bank, every customer is a big one.",
+          "company": "Geelmuyden Kiese",
+          "client": "Bien Sparebank",
+          "country": "Norway"
+        },
+        {
+          "name": "Sanlam Connect DigiMag: Client Whisperper Edition – Making business strategy matter to staff",
+          "company": "Machine_",
+          "client": "Sanlam",
+          "country": "South Africa"
+        },
+        {
+          "name": "Skoda Human Touch",
+          "company": "Wonderly",
+          "client": "Volkswagen Group",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Sports City USA",
+          "company": "VERB Interactive",
+          "client": "Visit Frisco x Sports City USA",
+          "country": "Canada"
+        },
+        {
+          "name": "Standard Bank My Blue Book",
+          "company": "2Stories",
+          "client": "Standard Bank",
+          "country": "South Africa"
+        },
+        {
+          "name": "The Bentley regional EMEA Newsletter",
+          "company": "Dialogue",
+          "client": "Bentley Motors",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Woolworths Shop Talk, June 2025",
+          "company": "Media24 Advertising & Content Marketing",
+          "client": "Woolworths",
+          "country": "South Africa"
+        }
+      ]
+    },
+    {
+      "name": "Best Financial Content",
+      "slug": "financial-content",
+      "nominees": [
+        {
+          "name": "Sparebanken Vest: Gen Z's Road to Home Sweet Home",
+          "company": "Schibsted Partnerstudio",
+          "client": "Sparebanken Vest",
+          "country": "Norway"
+        },
+        {
+          "name": "DNB: Mortgage Math Made Personal –  Crunching the Numbers to Your Dream Home",
+          "company": "Schibsted Partnerstudio",
+          "client": "DNB",
+          "country": "Norway"
+        },
+        {
+          "name": "Breaking the Money Taboo with Säästöpankki",
+          "company": "Sanoma Media Finland & Dagmar",
+          "client": "Säästöpankki",
+          "country": "Finland"
+        },
+        {
+          "name": "Brighter Futures: Redefining Financial Storytelling to Empower Australians",
+          "company": "Medium Rare Content Agency",
+          "client": "Commonwealth Bank of Australia",
+          "country": "Australia"
+        },
+        {
+          "name": "Folk x Admiral: Words to Live By",
+          "company": "The Folk Group Ltd",
+          "client": "Admiral",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "HSBC Global Investment Summit 2025: Financial Insights at Scale",
+          "company": "OMG, Ride Shotgun",
+          "client": "HSBC Corporate & Institutional Banking",
+          "country": "Hong Kong"
+        },
+        {
+          "name": "In a small bank, every customer is a big one.",
+          "company": "Geelmuyden Kiese",
+          "client": "Bien Sparebank",
+          "country": "Norway"
+        },
+        {
+          "name": "Krungthai FinFit: Mass-Personalized Financial Fitness Campaign for All Thais",
+          "company": "Digitas Thailand",
+          "client": "Krungthai Bank",
+          "country": "Thailand"
+        },
+        {
+          "name": "Standard Bank CIB Blue",
+          "company": "2Stories",
+          "client": "Standard Bank Corporate and Investment Banking",
+          "country": "South Africa"
+        },
+        {
+          "name": "The Great Wealth Transfer",
+          "company": "The Trust (Custom Content from WSJ)",
+          "client": "Equitable",
+          "country": "United States of America"
+        },
+        {
+          "name": "The Messy Middle report",
+          "company": "2Stories",
+          "client": "Genfin Business Finance",
+          "country": "South Africa"
+        },
+        {
+          "name": "Wells Fargo Student Athlete Financial Education",
+          "company": "Imprint",
+          "client": "Wells Fargo",
+          "country": "United States of America"
+        }
+      ]
+    },
+    {
+      "name": "Best Use of Print",
+      "slug": "print",
+      "nominees": [
+        {
+          "name": "Anniversary magazine - 175 Years Freudenberg",
+          "company": "Profilwerkstatt GmbH",
+          "client": "Freudenberg & Co. KG",
+          "country": "Germany"
+        },
+        {
+          "name": "Crossmedia campaign «Fokus Eusi Jugend»",
+          "company": "Smart Media Agency AG",
+          "client": "Various",
+          "country": "Switzerland"
+        },
+        {
+          "name": "Crossmedia campaign «Smart Femmes Inspirantes»",
+          "company": "Smart Media Agency AG",
+          "client": "Various",
+          "country": "France"
+        },
+        {
+          "name": "Cunarder",
+          "company": "Newhall",
+          "client": "Cunard",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Field X Fashion – Presented by U.S. Polo Assn.",
+          "company": "USPA Global",
+          "client": "U.S. Polo Assn.",
+          "country": "United States of America"
+        },
+        {
+          "name": "Fraser",
+          "company": "Dialogue",
+          "client": "Fraser Yachts",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "HakuAnkka - Donald Duck as recruiter",
+          "company": "Sanoma Media Finland",
+          "client": "LUT & LAB Universities",
+          "country": "Finland"
+        },
+        {
+          "name": "In a small bank, every customer is a big one.",
+          "company": "Geelmuyden Kiese",
+          "client": "Bien Sparebank",
+          "country": "Norway"
+        },
+        {
+          "name": "RSA Journal",
+          "company": "Wardour",
+          "client": "RSA",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Tower Revue",
+          "company": "Dialogue",
+          "client": "Badrutt's Palace Hotel, St. Moritz",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Turning Customers into Collectors – A 30-Year Vision for Patek Philippe Magazine",
+          "company": "Group SJR",
+          "client": "Patek Philippe",
+          "country": "United Kingdom"
+        }
+      ]
+    },
+    {
+      "name": "Best Purpose-Led Content",
+      "slug": "purpose-led-content",
+      "nominees": [
+        {
+          "name": "“Billy Monger x Every Body Moves”",
+          "company": "DMS Media ltd",
+          "client": "Toyota (GB) plc",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Breaking the Silence Around Menopause with Data-Driven Content and Societal Impact",
+          "company": "Sanoma Content Studio",
+          "client": "Terveystalo",
+          "country": "Finland"
+        },
+        {
+          "name": "Five Acre Wood with Costa Coffee",
+          "company": "Tribera",
+          "client": "Costa Coffee",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Gaming PD: Fighting Online Abuse Where It Happens",
+          "company": "105 - The Child Online Protection Bureau",
+          "client": "Israel",
+          "country": ""
+        },
+        {
+          "name": "Krungthai FinFit: Mass-Personalized Financial Fitness Campaign for All Thais",
+          "company": "Digitas Thailand",
+          "client": "Krungthai Bank",
+          "country": "Thailand"
+        },
+        {
+          "name": "Never Still, Never Stop: Purpose-Led Storytelling for Anglian Water",
+          "company": "Revel Studios",
+          "client": "Anglian Water",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "New sound to old electronics",
+          "company": "Nucleus",
+          "client": "Renas",
+          "country": "Norway"
+        },
+        {
+          "name": "The Kitchen Condition",
+          "company": "1473 Media",
+          "client": "Halton Group",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "The Salvation Army: The Gift From Liv",
+          "company": "Schibsted Partnerstudio",
+          "client": "The Salvation Army",
+          "country": "Norway"
+        },
+        {
+          "name": "This Apple Can Save The World",
+          "company": "Woolworths SA",
+          "client": "Woolworths",
+          "country": "South Africa"
+        }
+      ]
+    },
+    {
+      "name": "Best Membership",
+      "slug": "membership",
+      "nominees": [
+        {
+          "name": "Acuity",
+          "company": "Medium Rare Content Agency",
+          "client": "Chartered Accountants Australia and New Zealand",
+          "country": "Australia"
+        },
+        {
+          "name": "Candis Club",
+          "company": "Newhall Publishing",
+          "client": "Candis",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Company Director",
+          "company": "Medium Rare Content Agency",
+          "client": "Australian Institute of Company Directors",
+          "country": "Australia"
+        },
+        {
+          "name": "create: for Engineers Australia",
+          "company": "Mahlab",
+          "client": "Engineers Australia",
+          "country": "Australia"
+        },
+        {
+          "name": "E+T (Engineering and Technology) Explainer video collection",
+          "company": "Redactive",
+          "client": "Institution of Engineering and Technology",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Marine Conservation Society Membership Magazine",
+          "company": "Wonderly",
+          "client": "Marine Conservation Society",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Modus",
+          "company": "Sunday",
+          "client": "Royal Institution of Chartered Surveyors (RICS)",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "New sound to old electronics",
+          "company": "Nucleus",
+          "client": "Renas",
+          "country": "Norway"
+        },
+        {
+          "name": "Not Just Stockholm Film Festival",
+          "company": "Geelmuyden Kiese & Rocket Science",
+          "client": "Stockholm Film Festival",
+          "country": "Sweden"
+        },
+        {
+          "name": "The Actuary",
+          "company": "Redactive",
+          "client": "Institute and Faculty of Actuaries",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "The World’s Fastest Accountant",
+          "company": "Sunday",
+          "client": "The Institute of Chartered Accountants in England and Wales (ICAEW)",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Vi Lärare",
+          "company": "Ahead Publishing",
+          "client": "Sveriges Lärare",
+          "country": "Sweden"
+        }
+      ]
+    },
+    {
+      "name": "Best Specialist Campaign",
+      "slug": "specialist",
+      "nominees": [
+        {
+          "name": "A Bond Like No Other - Repositioning a ‘Niche’ Olympic sport for cultural impact",
+          "company": "Redtorch",
+          "client": "Fédération Equestre Internationale (FEI)",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Bentley Network App Customer Survey Campaign",
+          "company": "Dialogue",
+          "client": "Bentley Motors",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Building Lions",
+          "company": "Sporting Eric",
+          "client": "Rhino",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Curated",
+          "company": "Sporting Eric",
+          "client": "Golf Traveller",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Gaming PD: Fighting Online Abuse Where It Happens",
+          "company": "C - The Branded CONTENT Agency & Leo Constellation Israel",
+          "client": "105 - The Child Online Protection Bureau",
+          "country": "Israel"
+        },
+        {
+          "name": "GSMA Mobile Net Zero",
+          "company": "Dialogue",
+          "client": "GSMA",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "How Helen’s smart heating innovation turned into a content marketing success",
+          "company": "Sanoma Content Studio",
+          "client": "Helen Ltd",
+          "country": "Finland"
+        },
+        {
+          "name": "New sound to old electronics",
+          "company": "Nucleus",
+          "client": "Renas",
+          "country": "Norway"
+        },
+        {
+          "name": "Not Just Stockholm Film Festival",
+          "company": "Geelmuyden Kiese & Rocket Science",
+          "client": "Stockholm Film Festival",
+          "country": "Sweden"
+        },
+        {
+          "name": "The Kitchen Condition",
+          "company": "1473 Media",
+          "client": "Halton Group",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Who will grow the future?",
+          "company": "Geelmuyden Kiese & Copenhagen Film Company",
+          "client": "Yara International",
+          "country": "Norway"
+        }
+      ]
+    },
+    {
+      "name": "Best use of Social Media",
+      "slug": "social-media",
+      "nominees": [
+        {
+          "name": "From local streets to global reach",
+          "company": "Dialogue",
+          "client": "Harley-Davidson Owners Group",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Krungthai FinFit: Mass-Personalized Financial Fitness Campaign for All Thais",
+          "company": "Digitas Thailand",
+          "client": "Krungthai Bank",
+          "country": "Thailand"
+        },
+        {
+          "name": "Life at Greene King",
+          "company": "Tribera",
+          "client": "Greene King",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Meet the Team: The EGC Strategy That Transformed Landsec’s Social",
+          "company": "The Content Emporium",
+          "client": "Land Securities Group PLC",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "RSA Journal",
+          "company": "Wardour",
+          "client": "The RSA - The Royal Society of Arts, Manufactures & Commerce",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Ruter on Snapchat: Holding the City’s Attention",
+          "company": "Anorak NoA",
+          "client": "Ruter",
+          "country": "Norway"
+        },
+        {
+          "name": "Soundtrack to your Summer",
+          "company": "McGill Productions",
+          "client": "Protein Works",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Winter in Dublin: Turning the Off-Season into the Must-Season",
+          "company": "Forsman & Bodenfors",
+          "client": "Fáilte Ireland",
+          "country": "Ireland"
+        },
+        {
+          "name": "Woolworths TASTE social channels",
+          "company": "Media24 Advertising & Content Marketing",
+          "client": "Woolworths Foods",
+          "country": "South Africa"
+        },
+        {
+          "name": "Your Beach. Found – find your beach then find your stay",
+          "company": "In house",
+          "client": "Beach Retreats",
+          "country": "United Kingdom"
+        }
+      ]
+    },
+    {
+      "name": "Best Travel",
+      "slug": "travel",
+      "nominees": [
+        {
+          "name": "Bermuda Welcomes You",
+          "company": "VERB Interactive",
+          "client": "Bermuda Tourism Authority",
+          "country": "Canada"
+        },
+        {
+          "name": "Cathay’s vision for travel content: multi-channel, multi-format, multiplied results",
+          "company": "Cedar Hong Kong",
+          "client": "Cathay Pacific",
+          "country": "Hong Kong"
+        },
+        {
+          "name": "Cloud Magazine",
+          "company": "Dialogue",
+          "client": "Air Charter Service",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Curated",
+          "company": "Sporting Eric",
+          "client": "Golf Traveller",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "easyJet Traveller",
+          "company": "Ink",
+          "client": "easyJet",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Feelings on Track",
+          "company": "SWEET",
+          "client": "Interrail/ Silverrail",
+          "country": "Sweden"
+        },
+        {
+          "name": "Muumimaailma",
+          "company": "Sanoma Media Finland",
+          "client": "Muumimaailma",
+          "country": "Finland"
+        },
+        {
+          "name": "Qantas Magazine and Travel Insider - Redefining an Icon",
+          "company": "Medium Rare Content Agency",
+          "client": "Qantas Airways Limited",
+          "country": "Australia"
+        },
+        {
+          "name": "The Interrail Vintage Journey",
+          "company": "SWEET",
+          "client": "Interrail/ Silverrail",
+          "country": "Sweden"
+        },
+        {
+          "name": "Welcome to the Headquaters of Peace",
+          "company": "Sanoma Media Finland",
+          "client": "Päämajakaupunki Mikkeli, Headquarters city Mikkeli",
+          "country": "Finland"
+        },
+        {
+          "name": "Winter in Dublin: Turning the Off-Season into the Must-Season",
+          "company": "Forsman & Bodenfors",
+          "client": "Fáilte Ireland",
+          "country": "Ireland"
+        }
+      ]
+    },
+    {
+      "name": "Best Video - Individual",
+      "slug": "video-individual",
+      "nominees": [
+        {
+          "name": "Boots HomeCare – A supplier of reassurance.",
+          "company": "Geelmuyden Kiese",
+          "client": "Boots HomeCare",
+          "country": "Norway"
+        },
+        {
+          "name": "Curated",
+          "company": "Sporting Eric",
+          "client": "Golf Traveller",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Dugnaden",
+          "company": "Nucleus",
+          "client": "BORI BBL",
+          "country": "Norway"
+        },
+        {
+          "name": "Faith in our Future",
+          "company": "Wardour",
+          "client": "The Church Commissioners of England",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Finding Home",
+          "company": "W.Creative",
+          "client": "Woolworths",
+          "country": "South Africa"
+        },
+        {
+          "name": "Folk x Admiral: Words to Live By",
+          "company": "The Folk Group Ltd",
+          "client": "Admiral",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Lovisa's Voice",
+          "company": "Steen Agency",
+          "client": "Microsoft",
+          "country": "Sweden"
+        },
+        {
+          "name": "Mr Lyan's Taste Trips",
+          "company": "Ink Global / Mr Lyan Studio",
+          "client": "Suntory",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Singaporeans Dreaming - Osaka World Expo 2025",
+          "company": "Mediacorp Brand Studio",
+          "client": "Singapore Tourism Board",
+          "country": "Singapore"
+        },
+        {
+          "name": "The Interrail Vintage Journey",
+          "company": "SWEET",
+          "client": "Interrail/ Silverrail",
+          "country": "Sweden"
+        },
+        {
+          "name": "The World's Fastest Accountant",
+          "company": "Sunday",
+          "client": "The Institute of Chartered Accountants in England and Wales (ICAEW)",
+          "country": "United Kingdom"
+        }
+      ]
+    },
+    {
+      "name": "Best Video - Series",
+      "slug": "video-series",
+      "nominees": [
+        {
+          "name": "Building Singapore",
+          "company": "SPH Content Lab",
+          "client": "Building and Construction Authority",
+          "country": "Singapore"
+        },
+        {
+          "name": "Cathay’s Hong Kong video guides: immersive, insightful, insidery",
+          "company": "Cedar Hong Kong",
+          "client": "Cathay Pacific",
+          "country": "Hong Kong"
+        },
+        {
+          "name": "Eat Out Woolworths Family Meal Series",
+          "company": "Media24 Advertising & Content Marketing",
+          "client": "Woolworths",
+          "country": "South Africa"
+        },
+        {
+          "name": "Krungthai FinFit: Mass-Personalized Financial Fitness Campaign for All Thais",
+          "company": "Digitas Thailand",
+          "client": "Krungthai Bank",
+          "country": "Thailand"
+        },
+        {
+          "name": "Optimel goes the extra mile, launching their new Protein range",
+          "company": "Brandstudio van DPG Media",
+          "client": "Client: FrieslandCampina Brand: Optimel  Product: Optimel Protein",
+          "country": "Netherlands"
+        },
+        {
+          "name": "Perception Box: Corner Office",
+          "company": "The Trust (Custom Content from WSJ)",
+          "client": "Unlikely Collaborators",
+          "country": "United States of America"
+        },
+        {
+          "name": "Regional Sports Awards",
+          "company": "Bonnier News",
+          "client": "Bonnier News",
+          "country": "Sweden"
+        },
+        {
+          "name": "ROKStudios – Amplifying Manufacturing’s Boldest Thinkers",
+          "company": "TMW Business",
+          "client": "Rockwell Automation",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "RSA Presents",
+          "company": "Wardour",
+          "client": "RSA",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Singapore Dreamin'",
+          "company": "SPH Content Lab",
+          "client": "Singtel",
+          "country": "Singapore"
+        },
+        {
+          "name": "Table Talk with Valio",
+          "company": "Sanoma Media Finland",
+          "client": "Valio",
+          "country": "Finland"
+        },
+        {
+          "name": "Who will grow the future?",
+          "company": "Geelmuyden Kiese & Copenhagen Film Company",
+          "client": "Yara International",
+          "country": "Norway"
+        }
+      ]
+    },
+    {
+      "name": "Best Content Campaign",
+      "slug": "content-campaign",
+      "nominees": [
+        {
+          "name": "Your Beach. Found – find your beach then find your stay",
+          "company": "Beach Retreats",
+          "client": "",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Feelins on Track",
+          "company": "SWEET",
+          "client": "Interrail/ Silverrail",
+          "country": "Sweden"
+        },
+        {
+          "name": "Building Singapore",
+          "company": "SPH Content Lab",
+          "client": "Building and Construction Authority",
+          "country": "Singapore"
+        },
+        {
+          "name": "The Interrail Vintage Journey",
+          "company": "SWEET",
+          "client": "Interrail/ Silverrail",
+          "country": "Sweden"
+        },
+        {
+          "name": "Vi Lärare",
+          "company": "Ahead Publishing",
+          "client": "Sveriges Lärare",
+          "country": "Sweden"
+        },
+        {
+          "name": "Who will grow the future?",
+          "company": "Geelmuyden Kiese & Copenhagen Film Company",
+          "client": "Yara International",
+          "country": "Norway"
+        }
+      ]
+    },
+    {
+      "name": "Best Annual ‘Always-On’ Content Strategy",
+      "slug": "always-on-content",
+      "nominees": [
+        {
+          "name": "CIPD - Always On",
+          "company": "Wonderly",
+          "client": "CIPD",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Breaking the Silence Around Menopause with Data-Driven Content and Societal Impact",
+          "company": "Sanoma Content Studio",
+          "client": "Terveystalo",
+          "country": "Finland"
+        },
+        {
+          "name": "Krungthai FinFit: Mass-Personalized Financial Fitness Campaign for All Thais",
+          "company": "Digitas Thailand",
+          "client": "Krungthai Bank",
+          "country": "Thailand"
+        },
+        {
+          "name": "Never Still, Never Stop – Anglian Water’s Always-On Customer Support Series",
+          "company": "Revel Studios",
+          "client": "Anglian Water",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Paper to Me: Building a Global Movement for Print Media’s Future",
+          "company": "Sanoma Content Studio",
+          "client": "UPM Communication Papers",
+          "country": "Finland"
+        },
+        {
+          "name": "Shyft: Democratising global finance for all South Africans",
+          "company": "2Stories",
+          "client": "Shyft, Standard Bank Group",
+          "country": "South Africa"
+        }
+      ]
+    },
+    {
+      "name": "Best Branded Podcast",
+      "slug": "branded-podcast",
+      "nominees": [
+        {
+          "name": "Kondomeriet: Pillow Talk",
+          "company": "Schibsted Partnerstudio",
+          "client": "Kondomeriet",
+          "country": "Norway"
+        },
+        {
+          "name": "Life's Booming",
+          "company": "Medium Rare Content Agency",
+          "client": "Australian Seniors",
+          "country": "Australia"
+        },
+        {
+          "name": "Moments in Mind",
+          "company": "Swash and Buckle",
+          "client": "Pearson",
+          "country": "Australia"
+        },
+        {
+          "name": "Motability Lifestyle Podcast",
+          "company": "Wonderly",
+          "client": "Motability Foundation",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Table Talk with Valio",
+          "company": "Sanoma Media Finland",
+          "client": "Valio",
+          "country": "Finland"
+        },
+        {
+          "name": "Tech Talk With Vodacom Podcast",
+          "company": "Media24 Advertising & Content Marketing",
+          "client": "Vodacom",
+          "country": "South Africa"
+        }
+      ]
+    },
+    {
+      "name": "Best Partnership",
+      "slug": "partnership",
+      "nominees": [
+        {
+          "name": "Healthspan: The Science of Aging Well",
+          "company": "Scientific American Custom Media",
+          "client": "Google Cloud, Phenome Health, Optispan and the Buck Institute",
+          "country": "United States of America"
+        },
+        {
+          "name": "Krungthai FinFit: Mass-Personalized Financial Fitness Campaign for All Thais",
+          "company": "Digitas Thailand",
+          "client": "Krungthai Bank",
+          "country": "Thailand"
+        },
+        {
+          "name": "La Dolce Vita Partnership",
+          "company": "The 7 Stars",
+          "client": "Disaronno",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Origin Stories / Vodafone x Rugby Journal",
+          "company": "Sporting Eric",
+          "client": "Vodafone",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Qantas Travel Insider x Destination Canada",
+          "company": "Medium Rare Content Agency",
+          "client": "Qantas Airways Limited and Destination Canada",
+          "country": "Australia"
+        },
+        {
+          "name": "Regional Sports Awards",
+          "company": "Bonnier News",
+          "client": "Bonnier News",
+          "country": "Sweden"
+        }
+      ]
+    },
+    {
+      "name": "Best B2C Content Strategy",
+      "slug": "b2c-content-strategy",
+      "nominees": [
+        {
+          "name": "Block out with Bloo",
+          "company": "Burson",
+          "client": "Henkel",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Breaking the Silence Around Menopause with Data-Driven Content and Societal Impact",
+          "company": "Sanoma Content Studio",
+          "client": "Terveystalo",
+          "country": "Finland"
+        },
+        {
+          "name": "How Helen’s smart heating innovation turned into a content marketing success",
+          "company": "Sanoma Content Studio",
+          "client": "Helen Ltd",
+          "country": "Finland"
+        },
+        {
+          "name": "Motability Lifestyle",
+          "company": "Wonderly",
+          "client": "Motability Foundation",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Not Just Stockholm Film Festival",
+          "company": "Geelmuyden Kiese & Rocket Science",
+          "client": "Stockholm Film Festival",
+          "country": "Sweden"
+        },
+        {
+          "name": "Optimel goes the extra mile, launching their new Protein range",
+          "company": "Brandstudio van DPG Media",
+          "client": "FrieslandCampina",
+          "country": "Netherlands"
+        }
+      ]
+    },
+    {
+      "name": "Best Use of Data & Insight",
+      "slug": "data-insight",
+      "nominees": [
+        {
+          "name": "Brand Impact Index: Mapping data-rich storytelling to real client needs",
+          "company": "PA Consulting",
+          "client": "",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Breaking the Silence Around Menopause with Data-Driven Content and Societal Impact",
+          "company": "Sanoma Content Studio",
+          "client": "Terveystalo",
+          "country": "Finland"
+        },
+        {
+          "name": "Finding the Frequency of Feeling: The Sound Science of Branding",
+          "company": "Dialect Inc Ltd",
+          "client": "Steinberg (Yamaha Music Group)",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Global AI Jobs Barometer achieves 897 media articles in first month, discussed at TED and Davos",
+          "company": "PwC",
+          "client": "",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "How Helen’s smart heating innovation turned into a content marketing success",
+          "company": "Sanoma Content Studio",
+          "client": "Helen Ltd",
+          "country": "Finland"
+        },
+        {
+          "name": "Zenith International & Essity – Shattering stigma for international consumers with data-driven content",
+          "company": "Zenith International",
+          "client": "Essity",
+          "country": "United Kingdom"
+        }
+      ]
+    },
+    {
+      "name": "Best B2B Content Strategy",
+      "slug": "b2b-strategy",
+      "nominees": [
+        {
+          "name": "BBC Gardeners’ World May issue 2025 subscriptions campaign",
+          "company": "Immediate Customer Marketing & Subscriptions Team and Imagine Studio",
+          "client": "BBC Gardeners’ World Magazine",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Best B2B LinkedIn Strategy",
+          "company": "Friday Solved",
+          "client": "Incoming",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Brand Impact Index: Reaching 85+ million people with a content strategy powerhouse",
+          "company": "PA Consulting",
+          "client": "",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Global AI Jobs Barometer achieves 897 media articles in first month, discussed at TED and Davos",
+          "company": "PwC",
+          "client": "PwC",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Old Mutual Corporate Content marketing strategy",
+          "company": "2Stories",
+          "client": "Old Mutual Corporate",
+          "country": "South Africa"
+        },
+        {
+          "name": "Paper to Me: Building a Global Movement for Print Media’s Future",
+          "company": "Sanoma Content Studio",
+          "client": "UPM Communication Papers",
+          "country": "Finland"
+        },
+        {
+          "name": "Pathfinder",
+          "company": "Sticky",
+          "client": "Dun & Bradstreet",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Singapore Dreamin'",
+          "company": "SPH Content Lab",
+          "client": "Singtel",
+          "country": "Singapore"
+        }
+      ]
+    },
+    {
+      "name": "Best Content Hub",
+      "slug": "content-hub",
+      "nominees": [
+        {
+          "name": "Coffee House",
+          "company": "Newhall",
+          "client": "Coffee House",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Krungthai FinFit: Mass-Personalized Financial Fitness Campaign for All Thais",
+          "company": "Digitas Thailand",
+          "client": "Krungthai Bank",
+          "country": "Thailand"
+        },
+        {
+          "name": "Noteworthy Digital Content Hub",
+          "company": "Medium Rare Content Agency",
+          "client": "Officeworks",
+          "country": "Australia"
+        },
+        {
+          "name": "Regional Sports Awards",
+          "company": "Bonnier News",
+          "client": "Bonnier News",
+          "country": "Sweden"
+        },
+        {
+          "name": "six-two: So much more than a content hub",
+          "company": "Contiki",
+          "client": "",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Stryktipset 90 Years",
+          "company": "Bonnier News",
+          "client": "Svenska Spel",
+          "country": "Sweden"
+        }
+      ]
+    },
+    {
+      "name": "Best Content Team",
+      "slug": "content-team",
+      "nominees": [
+        {
+          "name": "A Social Team for a Social City",
+          "company": "Anorak NoA",
+          "client": "",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Brighter Together: Transforming Financial Confidence Through Purposeful Content",
+          "company": "Medium Rare Content Agency",
+          "client": "",
+          "country": "Ireland"
+        },
+        {
+          "name": "Team Patek Philippe",
+          "company": "Group SJR",
+          "client": "",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "The Creative Engine Behind Landsec’s Social Transformation",
+          "company": "The Content Emporium",
+          "client": "",
+          "country": "Norway"
+        },
+        {
+          "name": "Weekly Brand Series Ad Campaign",
+          "company": "Global Creative, Johnson Controls’ in-house creative agency",
+          "client": "",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Your Beach. Found – find your beach then find your stay",
+          "company": "Beach Retreats/Various",
+          "client": "",
+          "country": "Australia"
+        }
+      ]
+    },
+    {
+      "name": "Best Use of Imagery",
+      "slug": "imagery",
+      "nominees": [
+        {
+          "name": "Maggie and Marlow Identity",
+          "company": "Tribera",
+          "client": "Linnaeus",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "The Crick Magazine",
+          "company": "Sticky",
+          "client": "The Francis Crick Institute",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Tower Revue",
+          "company": "Dialogue",
+          "client": "Badrutt's Palace Hotel, St. Moritz",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Weekly Brand Series Ad Campaign",
+          "company": "Global Creative, Johnson Controls’ in-house creative agency",
+          "client": "Johnson Controls",
+          "country": "Ireland"
+        },
+        {
+          "name": "Who will grow the future?",
+          "company": "Geelmuyden Kiese & Copenhagen Film Company",
+          "client": "Yara International",
+          "country": "Norway"
+        },
+        {
+          "name": "Woolworths TASTE Our Best Ever Christmas",
+          "company": "Media24 Advertising & Content Marketing",
+          "client": "Woolworths foods",
+          "country": "South Africa"
+        }
+      ]
+    },
+    {
+      "name": "Best Use of Influencer Marketing",
+      "slug": "influencer-marketing",
+      "nominees": [
+        {
+          "name": "Google Pixel x The White Lotus",
+          "company": "Warner Bros. Discovery - Courageous Studios",
+          "client": "Google",
+          "country": "United States of America"
+        },
+        {
+          "name": "I Am #1",
+          "company": "Dentsu Creative; Carat; PXP Studios; Publicis One Touch",
+          "client": "NIVEA",
+          "country": "South Africa"
+        },
+        {
+          "name": "Chefluencer: Driving B2B Growth",
+          "company": "Greenpark",
+          "client": "Unilever Food Solutions",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Krungthai FinFit: Mass-Personalized Financial Fitness Campaign for All Thais",
+          "company": "Digitas Thailand",
+          "client": "Krungthai Bank",
+          "country": "Thailand"
+        },
+        {
+          "name": "Not Just Stockholm Film Festival",
+          "company": "Geelmuyden Kiese & Rocket Science",
+          "client": "Stockholm Film Festival",
+          "country": "Sweden"
+        },
+        {
+          "name": "The World of #PlayGalaxy",
+          "company": "Cheil Worldwide",
+          "client": "Samsung",
+          "country": "Korea, Republic of"
+        },
+        {
+          "name": "Woolworths TASTE: Ramadan 2025",
+          "company": "Media24 Advertising & Content Marketing",
+          "client": "Woolworths foods",
+          "country": "South Africa"
+        }
+      ]
+    },
+    {
+      "name": "Best Use of SEO",
+      "slug": "seo",
+      "nominees": [
+        {
+          "name": "Cooking up Conversions",
+          "company": "Greenpark",
+          "client": "Unilever Food Solutions",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "From Content to Connection: Acolad’s Best Use of SEO",
+          "company": "Acolad",
+          "client": "Acolad",
+          "country": "France"
+        },
+        {
+          "name": "Krungthai FinFit: Mass-Personalized Financial Fitness Campaign for All Thais",
+          "company": "iProspect Thailand",
+          "client": "Krungthai Bank",
+          "country": "Thailand"
+        },
+        {
+          "name": "PROGRESS FOR ALL SEO STRATEGY",
+          "company": "Wonderthink",
+          "client": "UNSW",
+          "country": "Australia"
+        },
+        {
+          "name": "Making culture visible",
+          "company": "Media24 Advertising & Content Marketing",
+          "client": "Woolworths foods",
+          "country": "South Africa"
+        },
+        {
+          "name": "Zenith International & Essity – Shattering stigma for international consumers with data-driven content",
+          "company": "Zenith International",
+          "client": "Essity",
+          "country": "United Kingdom"
+        }
+      ]
+    },
+    {
+      "name": "Best Use of Monetised Content",
+      "slug": "monetised-content",
+      "nominees": [
+        {
+          "name": "BA Media Destination: Transformation",
+          "company": "Cedar",
+          "client": "British Airways",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Postkodlotteriet",
+          "company": "Bonnier News",
+          "client": "Postkodlotteriet",
+          "country": "Sweden"
+        },
+        {
+          "name": "Travel Insider - Super-boosting Partnerships",
+          "company": "Medium Rare",
+          "client": "Qantas",
+          "country": "Australia"
+        },
+        {
+          "name": "Woolworths TASTE: Ottolenghi campaign",
+          "company": "Media24",
+          "client": "Belazu & Woolworths",
+          "country": "South Africa"
+        }
+      ]
+    },
+    {
+      "name": "Best Automotive",
+      "slug": "automotive",
+      "nominees": [
+        {
+          "name": "Bentley Magazine",
+          "company": "Dialogue",
+          "client": "Bentley Motors",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "BMW of North America x Hacks",
+          "company": "Warner Bros. Discovery - Courageous Studio",
+          "client": "BMW",
+          "country": "United States of America"
+        },
+        {
+          "name": "H.O.G. Stories",
+          "company": "Dialogue",
+          "client": "Harley-Davidson Owners Group",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Taking boating to new heights",
+          "company": "OTW",
+          "client": "Volvo Penta",
+          "country": "Sweden"
+        },
+        {
+          "name": "Værktøjskassen",
+          "company": "Brand Movers",
+          "client": "VW Erhvervsbiler",
+          "country": "Denmark"
+        }
+      ]
+    },
+    {
+      "name": "Best use of AI",
+      "slug": "use-of-ai",
+      "nominees": [
+        {
+          "name": "Freedome",
+          "company": "Make Your Mark",
+          "client": "Vattenfall",
+          "country": "Sweden"
+        },
+        {
+          "name": "Revel Studios: Using AI to Free Creativity and Deliver More for Clients",
+          "company": "Revel Studios",
+          "client": "All",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Supply Chain Nightmares: The Whodunnit",
+          "company": "Deposco",
+          "client": "Deposco",
+          "country": "United States of America"
+        },
+        {
+          "name": "Unlocking Authentic Engagement at Scale",
+          "company": "Group SJR",
+          "client": "multiple",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Winning in Search With AI",
+          "company": "Greenpark",
+          "client": "Unilever",
+          "country": "United States of America"
+        }
+      ]
+    },
+    {
+      "name": "Best Use of Innovative Technology",
+      "slug": "innovative-technology",
+      "nominees": [
+        {
+          "name": "SJR's GX Manager: The AI-powered platform rewiring content for a new marketing reality",
+          "company": "Group SJR",
+          "client": "multiple",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "The World’s First Gaming Police Department",
+          "company": "C - The Branded CONTENT Agency & Leo Constellation Israel",
+          "client": "105 - The Child Online Protection Bureau",
+          "country": "Israel"
+        },
+        {
+          "name": "This Apple Can Save The World",
+          "company": "W.Creative",
+          "client": "Woolworths",
+          "country": "South Africa"
+        }
+      ]
+    },
+    {
+      "name": "Rising Star",
+      "slug": "rising-star",
+      "nominees": [
+        {
+          "name": "Izabela Chmielewska",
+          "company": "Norstella",
+          "client": "",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Paramveer Bhachu",
+          "company": "7C3",
+          "client": "",
+          "country": "United States of America"
+        },
+        {
+          "name": "Shaun Morey",
+          "company": "Group SJR",
+          "client": "",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Wendy Brooking",
+          "company": "Dialogue",
+          "client": "",
+          "country": "United Kingdom"
+        }
+      ]
+    },
+    {
+      "name": "Designer of the Year",
+      "slug": "designer",
+      "nominees": [
+        {
+          "name": "Gary Hill",
+          "company": "Redactive",
+          "client": "Institute of Biomedical Science, Magistrates' Association, International Air Transport Association",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Nicola Preston",
+          "company": "Dialogue",
+          "client": "Allure, Jarrolds, Bentley Motors, GSMA",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Samantha Scott",
+          "company": "Ink",
+          "client": "easyJet",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Sian Osborne",
+          "company": "Dialogue",
+          "client": "Harley-Davidson Owners Group and Bentley Motors",
+          "country": "United Kingdom"
+        }
+      ]
+    },
+    {
+      "name": "Editor of the Year",
+      "slug": "editor",
+      "nominees": [
+        {
+          "name": "Cathy Wood",
+          "company": "Dialogue",
+          "client": "Bentley Motors and more",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Lydia Polzer",
+          "company": "Ink",
+          "client": "Eurowings",
+          "country": "United Kingdom"
+        },
+        {
+          "name": "Nenad Senić",
+          "company": "PM, poslovni mediji",
+          "client": "Mestna občina Ljubljana",
+          "country": "Slovenia"
+        }
+      ]
+    },
+    {
+      "name": "Content Person of the Year",
+      "slug": "content-person",
+      "nominees": [
+        {
+          "name": "Peter Klomp",
+          "company": "UEFA",
+          "client": "",
+          "country": "Switzerland"
+        },
+        {
+          "name": "Katharine Pope",
+          "company": "Media24",
+          "client": "",
+          "country": "South Africa"
+        },
+        {
+          "name": "Trygve A. Tønnessen & Ole Henrik Stubberud",
+          "company": "Geelmuyden Kiese",
+          "client": "",
+          "country": "Norway"
+        }
+      ]
+    }
+  ]
+}
